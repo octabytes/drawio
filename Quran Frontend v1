@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T05:53:08.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Safari/537.36" etag="wNiEe6SA_BNHi_cFd35w" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-15T05:53:47.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Safari/537.36" etag="P7GvHN7EMIwBFxXDF8kP" version="14.3.1" type="github">
   <diagram id="zhJoBFmDUAHSaAtA4XN0" name="Page-1">
     <mxGraphModel dx="786" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
         <mxCell id="ZCRiN5p_UcT04XubD7YM-9" value="Arabic Ayah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="110" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZCRiN5p_UcT04XubD7YM-10" value="English or Urdu Ayah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZCRiN5p_UcT04XubD7YM-10" value="English or Urdu Ayah Translation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZCRiN5p_UcT04XubD7YM-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -44,17 +44,11 @@
         <mxCell id="ZCRiN5p_UcT04XubD7YM-12" value="Arabic Ayah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="190" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZCRiN5p_UcT04XubD7YM-13" value="English or Urdu Ayah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="190" width="140" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ZCRiN5p_UcT04XubD7YM-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZCRiN5p_UcT04XubD7YM-15" value="Arabic Ayah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="280" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ZCRiN5p_UcT04XubD7YM-16" value="English or Urdu Ayah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZCRiN5p_UcT04XubD7YM-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="30" width="170" height="140" as="geometry" />
@@ -64,6 +58,12 @@
         </mxCell>
         <mxCell id="ZCRiN5p_UcT04XubD7YM-17" value="&lt;h1&gt;Language&lt;/h1&gt;&lt;p&gt;Language selection dropdown&lt;/p&gt;&lt;p&gt;currently only English and Urdu available&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="40" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCRiN5p_UcT04XubD7YM-21" value="English or Urdu Ayah Translation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCRiN5p_UcT04XubD7YM-22" value="English or Urdu Ayah Translation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
